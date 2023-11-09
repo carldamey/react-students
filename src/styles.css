@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 40rem;
+  text-align: left;
+  margin: 0 auto;
+}
+
+.red-text {
+  color: red;
+}
